@@ -1,5 +1,13 @@
-## Honors and Awards
+<h2 class="section-title"><i class="fas fa-award"></i> Honors and Awards</h2>
 
-- **Second Prize**, The 19th “Huawei Cup” China Graduate Mathematical Contest in Modeling.
-- **Outstanding Graduate Scholarship**, Southwest University.
-- **First-Class Graduate Scholarship**, Southwest University.
+<div class="award-item">
+  <strong>Second Prize</strong>, The 19th “Huawei Cup” China Graduate Mathematical Contest in Modeling.
+</div>
+
+<div class="award-item">
+  <strong>Outstanding Graduate Scholarship</strong>, Southwest University.
+</div>
+
+<div class="award-item">
+  <strong>First-Class Graduate Scholarship</strong>, Southwest University.
+</div>
