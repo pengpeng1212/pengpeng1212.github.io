@@ -1,4 +1,4 @@
-## News
+<h2 class="section-title"><i class="fas fa-bullhorn"></i> News</h2>
 
 - **[2026]** Our paper **Rh-3DGS: Robust Open-Vocabulary Scene Understanding via Riemannian Huber Distillation and Manifold-Aware Sampling** was accepted by **ICML 2026**.
 - **[2025.09]** I started my Ph.D. study in **Management Science and Engineering** at the **National University of Defense Technology**.
