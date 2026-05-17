@@ -22,7 +22,7 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Xinpeng Zhao"
-  avatar           : "images/profile.jpeg"
+  avatar           : "images/profile.jpg"
   bio              : "Ph.D. student in Management Science and Engineering at the National University of Defense Technology. My research interests include open-vocabulary 3D scene understanding, 3D Gaussian Splatting, medical image segmentation, rough sets, and intelligent diagnosis."
   location         : "China"
   employer         : "National University of Defense Technology"
