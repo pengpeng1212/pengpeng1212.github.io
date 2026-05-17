@@ -1,14 +1,30 @@
-## Research Experience
+<h2 class="section-title"><i class="fas fa-flask"></i> Research Experience</h2>
 
-- **Open-vocabulary 3DGS Scene Understanding:**  
-  I focus on robust semantic distillation, manifold-aware sampling, multi-view consistency, and boundary-stable open-vocabulary understanding based on **3D Gaussian Splatting**.
+<div class="pub-card">
+  <div class="pub-title">Open-vocabulary 3DGS Scene Understanding</div>
+  <p>
+  I focus on robust semantic distillation, manifold-aware sampling, multi-view consistency, and boundary-stable open-vocabulary understanding based on <strong>3D Gaussian Splatting</strong>.
+  </p>
+</div>
 
-- **Medical Image Segmentation:**  
-  I developed medical image segmentation models by integrating **neighborhood fuzzy C-means**, **multi-scale pyramid structures**, and **hybrid attention mechanisms**.
+<div class="pub-card">
+  <div class="pub-title">Medical Image Segmentation</div>
+  <p>
+  I developed medical image segmentation models by integrating <strong>neighborhood fuzzy C-means</strong>, <strong>multi-scale pyramid structures</strong>, and <strong>hybrid attention mechanisms</strong>.
+  </p>
+</div>
 
-- **Oncogene Diagnosis and Rough Set Modeling:**  
-  I worked on high-dimensional oncogene diagnosis by combining **neighborhood rough sets**, **precision rough sets**, and **game-theoretic dynamic ensemble learning**, with emphasis on stability, interpretability, and diagnostic efficiency.
+<div class="pub-card">
+  <div class="pub-title">Oncogene Diagnosis and Rough Set Modeling</div>
+  <p>
+  I worked on high-dimensional oncogene diagnosis by combining <strong>neighborhood rough sets</strong>, <strong>precision rough sets</strong>, and <strong>game-theoretic dynamic ensemble learning</strong>, with emphasis on stability, interpretability, and diagnostic efficiency.
+  </p>
+</div>
 
-## Contact
+<h2 class="section-title"><i class="fas fa-envelope"></i> Contact</h2>
 
-- Email: [zhaoxpengpeng@163.com](mailto:zhaoxpengpeng@163.com)
+<div class="contact-card">
+  <p>
+    <strong>Email:</strong> <a href="mailto:zhaoxpengpeng@163.com">zhaoxpengpeng@163.com</a>
+  </p>
+</div>
